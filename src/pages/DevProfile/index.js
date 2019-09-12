@@ -23,7 +23,7 @@ function DevProfile() {
         <Header>
           <Logo> Logo </Logo>
           <Menu>
-            <MdMenu />
+            <MdMenu size={50} />
           </Menu>
         </Header>
         <ProfileContent>
